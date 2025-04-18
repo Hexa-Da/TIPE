@@ -85,4 +85,4 @@ Ce projet a été développé dans le cadre d'un TIPE. N'hésitez pas à l'utili
 Ce projet est disponible sous licence libre pour usage éducatif et personnel.
 
 ---
-*Développé avec ❤️ pour le TIPE grace à M.Viard* 
+*Développé avec ❤️ pour le TIPE grâce à M.Viard* 
