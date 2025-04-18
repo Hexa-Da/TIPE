@@ -8,7 +8,7 @@ import statistics
 
 #################### Tableau de commande ######################
 
-nbrCarrefour = 1                #1,2 ou 4 pour l'instant
+nbrCarrefour = 4                #1,2 ou 4 pour l'instant
 FonctionnementFeux = 2          #1: 2 à 2 ou 2: 1 par 1
 
 ChanceVehicule = [25,50,75,100]     #Voiture,Bus,Camion,Moto
